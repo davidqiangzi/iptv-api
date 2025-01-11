@@ -270,7 +270,7 @@ docker run -v /etc/docker/config:/iptv-api-lite/config -v /etc/docker/output:/ip
 
 | 支付宝                                  | 微信                                      |
 |--------------------------------------|-----------------------------------------|
-| ![支付宝扫码](./static/images/alipay.jpg) | ![微信扫码](./static/images/appreciate.jpg) |
+|                                      |                                         |
 
 ## 关注
 
